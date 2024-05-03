@@ -15,4 +15,6 @@ git restore .
 git restore -s
 git restore belajar.js
 
-git checkout -b feat/multiply
+git checkout -b feat/multiply ==> Masuk ke branch
+git checkout main             ==> Masuk ke master
+git merge feat/multiply
