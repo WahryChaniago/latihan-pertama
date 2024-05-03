@@ -1,5 +1,7 @@
 Catatan
 
+node belahar.js
+
 git add belajar.js
 git add .
 git commit -m "pesan commit"
@@ -13,3 +15,4 @@ git restore .
 git restore -s
 git restore belajar.js
 
+git checkout -b feat/multiply
