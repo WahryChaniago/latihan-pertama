@@ -18,3 +18,5 @@ git restore belajar.js
 git checkout -b feat/multiply ==> Masuk ke branch
 git checkout main             ==> Masuk ke master
 git merge feat/multiply
+
+git clone git@github.com:WahryChaniago/latihan-pertama.git
